@@ -4,10 +4,10 @@
 import pytest  # noqa
 from glob import glob
 import os  # noqa
-from lib import parsers_and_filters
+from lib.parsers_and_filters import *
 
 
 def test__load_setingsfile():
     for file in glob("files_for_testing/*.sublime*"):
-        cfg = parsers_and_filters.load_settingsfile(file)  # noqa
+        cfg = load_setingsfile(file)  # noqa
     return True
