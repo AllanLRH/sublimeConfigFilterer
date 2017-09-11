@@ -1,2 +1,2 @@
-jsoncfg
+barely_json
 pytest
