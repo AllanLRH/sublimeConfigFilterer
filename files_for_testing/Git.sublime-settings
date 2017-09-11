@@ -1,0 +1,11 @@
+{
+	"commit_rulers":
+	[
+		70
+	],
+	"diff_panel": false,
+	"history_size": 25,
+	"status_opens_file": true,
+	"statusbar_branch": true,
+	"statusbar_status": true
+}

@@ -1,0 +1,14 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
+	"caret_extra_width": 1,
+	"caret_style": "solid",
+	"close_windows_when_empty": false,
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 10
+}

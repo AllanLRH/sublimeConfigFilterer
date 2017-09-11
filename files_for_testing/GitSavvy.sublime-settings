@@ -1,0 +1,21 @@
+    // Settings in here override those in "GitSavvy/GitSavvy.sublime-settings",
+
+{
+    "git_status_in_status_bar": false,
+    "git_path": {
+        "linux": "/usr/bin/git",
+         "osx": "/usr/local/bin/git"
+     },
+    "show_commit_diff": true,
+    "tab_order": [
+        "status",
+        "graph",
+        "branch",
+        "rebase",
+        "tags"
+    ],
+    "api_tokens": {
+        "github.com": "foobar123"
+    }
+
+}

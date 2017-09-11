@@ -1,0 +1,15 @@
+{
+    "syntaxmgr_settings": [
+        {
+            // platforms, can be osx, windows or linux
+            "platforms": ["windows"],
+            "settings": {
+                "font_face": "Hack",
+                "font_options":
+                [
+                    "directwrite"
+                ],
+            }
+        }
+    ]
+}

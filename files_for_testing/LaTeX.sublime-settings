@@ -1,0 +1,13 @@
+// These settings override both User and Default settings for the LaTeX syntax
+{
+    // "draw_centered": true,
+    "margin": 60,
+    // "font_face": "CosmicSansNeueMono",
+    // "font_face": "Droid Sans Mono",
+    // "font_face": "Inconsolata",
+    "font_face": "Anonymous Pro",
+    // "font_face": "Bitstream Vera Sans Mono",
+    "font_size": 11,
+    "rulers": [100],
+    "wrap_width": 100,
+}

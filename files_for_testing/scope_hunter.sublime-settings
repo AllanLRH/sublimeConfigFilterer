@@ -1,0 +1,8 @@
+{
+    "show_popup": true,
+    "extent_points": true,
+    "styling": true,
+    "show_simulated_alpha_colors": true,
+    "file_paths": true,
+    "show_panel": false
+}

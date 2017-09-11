@@ -1,0 +1,17 @@
+{
+	"colors_by_scope":
+	[
+		"invalid.deprecated",
+		"entity.name.class",
+		"invalid",
+		"support.function",
+		"string",
+		"variable.parameter"
+	],
+	"ignore_case": true,
+	"permanent_highlight_keyword_color_mappings":
+	[
+	],
+	"use_regex": true,
+	"whole_word": false
+}

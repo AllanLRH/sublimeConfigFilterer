@@ -1,0 +1,19 @@
+{
+	"replacements":
+	{
+		"kimReplace":
+		{
+			"find": "(?<!\\\\)(log|cos|sin|tan)h?\\b",
+			"greedy": true,
+			"greedy_scope": true,
+			"name": "kimReplace",
+			"replace": "\\\\\\1",
+			"scope_filter":
+			[
+				"text.tex.latex meta.environment.math",
+				"variable.other.math.tex",
+				"-!text.tex.latex"
+			]
+		}
+	}
+}

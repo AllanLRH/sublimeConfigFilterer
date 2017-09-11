@@ -1,0 +1,271 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "dirtyFn cleanFn"
+				},
+				"command": "text_pastry_insert_text",
+				"text": "words dirtyFn cleanFn"
+			},
+			"key": "05cb4a32635df0aad8f3b508fbff5cbc",
+			"label": "words dirtyFn cleanFn"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "+ -"
+				},
+				"command": "text_pastry_insert_text",
+				"text": "words + -"
+			},
+			"key": "79cb631ebd40ead06435971d5fe89226",
+			"label": "words + -"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "R G B",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "R G B"
+			},
+			"key": "4c37760f27f77c964f5b1dd73a83ce88",
+			"label": "R G B"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "number address",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "number address"
+			},
+			"key": "260159acc71121eca35d6cbc11ccb69b",
+			"label": "number address"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "number address"
+				},
+				"command": "text_pastry_words",
+				"text": "words number address"
+			},
+			"key": "1d496d49b55dc5d0cd28965e91f71486",
+			"label": "words number address"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i"
+			},
+			"key": "1bd7ee1ce72751da4e64129f6d32db41",
+			"label": "\\i"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "object"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter object"
+			},
+			"key": "40108528a03b90189a54a3e5abcd85d4",
+			"label": "filter object"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "/words big small",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "/words big small"
+			},
+			"key": "65f8e58a2af721e946c607ba3d446255",
+			"label": "/words big small"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\words big small",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\words big small"
+			},
+			"key": "7fec05da50c9e2070db4e8d14bd09a58",
+			"label": "\\words big small"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\w big small",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\w big small"
+			},
+			"key": "5fe2521951d2f7bb5669d859a99a6d9f",
+			"label": "\\w big small"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "big small",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "big small"
+			},
+			"key": "f6f113cd64cd78d2ef1b1129d403a702",
+			"label": "big small"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"clipboard": true,
+					"separator": "big small"
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\p big small"
+			},
+			"key": "ad3a7444791daa09a54f9b7ffa032d11",
+			"label": "\\p big small"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\W big small",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\W big small"
+			},
+			"key": "66640bee4bf5d84da40606e3651865cf",
+			"label": "\\W big small"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "node edge"
+				},
+				"command": "text_pastry_words",
+				"text": "words node edge"
+			},
+			"key": "61a16d1bc9b91919c69babaee506eb84",
+			"label": "words node edge"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "True False"
+				},
+				"command": "text_pastry_words",
+				"text": "words True False"
+			},
+			"key": "c5d8e2a76e692cb6dba6dcdc9216dc77",
+			"label": "words True False"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "ui uj"
+				},
+				"command": "text_pastry_words",
+				"text": "words ui uj"
+			},
+			"key": "01d825dac7e3ad3bd738672e9657f58a",
+			"label": "words ui uj"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0 1"
+				},
+				"command": "text_pastry_words",
+				"text": "words 0 1"
+			},
+			"key": "d4da06de5d079a40325cdb0fdcf9e07f",
+			"label": "words 0 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Mean Variance"
+				},
+				"command": "text_pastry_words",
+				"text": "words Mean Variance"
+			},
+			"key": "1a9ea77ff779a995a96360cf9a6f6ac4",
+			"label": "words Mean Variance"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"clipboard": true
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\p"
+			},
+			"key": "ceb8141b2b1d05fb9539bc1381b58745",
+			"label": "\\p"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"clipboard": true
+		},
+		"command": "text_pastry_insert_text",
+		"text": "\\p"
+	}
+}

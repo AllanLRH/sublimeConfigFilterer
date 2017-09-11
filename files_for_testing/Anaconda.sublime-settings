@@ -1,0 +1,93 @@
+{
+    "python_interpreter": "/home/allan/homeinstalled/miniconda3/envs/py36/bin/python",
+    "autoformat_ignore":
+    [
+        "E309"
+    ],
+    "pep8_ignore":
+    [
+        "E309",
+        "E501",
+        "E226",
+        "W391",
+        "E731",
+        "E241",
+        "E221",
+        "E402",
+        "W293",
+        "E201",
+        "E303"
+        // "E128"
+    ],
+    "pep257_ignore":
+    [
+        "D203",
+        "D209"
+    ],
+    "pyflakes_ignore":
+    [
+        "some_custom_builtin_o_mine",
+        "A_GLOBAL_CONSTANT"
+    ],
+    "pyflakes_explicit_ignore":
+    [
+        // "Redefined",
+        // "UnusedImport",
+        // "UndefinedName",
+        // "UndefinedLocal",
+        // "UnusedVariable,",
+        // "UndefinedExport",
+        // "DuplicateArgument",
+        // "RedefinedWhileUnused"
+    ],
+    "pylint_ignore":
+    [
+        // "0201"
+    ],
+    "test_command": "py.test",
+    "hide_snippets_on_completion": false,
+    "complete_parameters": false,
+    "autoformat_select":
+    [
+        "E121",
+        "E122",
+        "E123",
+        "E124",
+        "E125",
+        "E126",
+        "E127",
+        "E128",
+        "E129",
+        "E201",
+        "E202",
+        "E203",
+        "E211",
+        "E221",
+        "E222",
+        "E223",
+        "E224",
+        "E225",
+        "E226",
+        "E227",
+        "E228",
+        "E231",
+        "E241",
+        "E242",
+        "E251",
+        "E261",
+        "E262",
+        "E271",
+        "E272",
+        "E273",
+        "E274",
+        "E301",
+        "E302",
+        "E303",
+        "E304",
+        "E401",
+        "W602",
+        "W603",
+        "W604"
+    ],
+    "auto_formatting_timeout": 12
+}

@@ -1,0 +1,10 @@
+// These settings override both User and Default settings for the Markdown syntax
+{
+    /*"wrap_width": 80,*/
+    "rulers": [95],
+    // "margin": 55,
+    "font_size": 10.5,
+    "font_face": "Monaco",
+    "show_panel_on_build": false,
+    // "wrap_width": 120
+}

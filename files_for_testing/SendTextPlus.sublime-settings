@@ -1,0 +1,18 @@
+{
+	"defaults":
+	[
+		{
+			"platform": "osx",
+			"prog": "iTerm"
+		},
+		{
+			"platform": "windows",
+			"prog": "Cmder"
+		},
+		{
+			"platform": "linux",
+			"prog": "tmux"
+		}
+	],
+	"prog": "iTerm"
+}

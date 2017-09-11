@@ -1,0 +1,229 @@
+{
+    "disabled":
+    [],
+    "presets":
+    [
+
+        {"description": "Enable trim_trailing_white_space_on_save",
+            "name": "Trim-save on",
+            "settings":
+            {
+                "trim_trailing_white_space_on_save": true
+            }
+        },
+        {"description": "Disable trim_trailing_white_space_on_save",
+            "name": "Trim-save off",
+            "settings":
+            {
+                "trim_trailing_white_space_on_save": false
+            }
+        },
+        {"description": "Draw centered, trim 140",
+            "name": "Draw center trim on",
+            "settings":
+            {
+                "draw_centered": true,
+                "wrap_width": 140
+            }
+        },
+        {"description": "Draw normal",
+            "name": "Draw center trim off",
+            "settings":
+            {
+                "draw_centered": false,
+                "wrap_width": 0
+            }
+        },
+
+        // Font presets
+
+        {
+            "description": "Source Code Pro, fontsize 10.5",
+            "name": "Font: Source Code Pro",
+            "settings":
+            {
+                "font_size": 10.5,
+                "font_face": "Source Code Pro"
+            }
+        },
+        {
+            "description": "Droid Sans Mono, fontsize 11",
+            "name": "Font: Droid Sans Mono",
+            "settings":
+            {
+                "font_size": 10,
+                "font_face": "Droid Sans Mono"
+            }
+        },
+        {
+            "description": "Avenir Next Medium, fontsize 11",
+            "name": "Font: Avenir Next Medium",
+            "settings":
+            {
+                "font_size": 11,
+                "font_face": "Avenir Next Medium"
+            }
+        },
+        {
+            "description": "Lucida Console, fontsize 10.5",
+            "name": "Font: Lucida Console",
+            "settings":
+            {
+                "font_size": 11,
+                "font_face": "Lucida Console"
+            }
+        },
+        {
+            "description": "Monaco, fontsize 10",
+            "name": "Font: Monaco",
+            "settings":
+            {
+                "font_size": 10,
+                "font_face": "Monaco"
+            }
+        },
+        {
+            "description": "FreeMono, fontsize 11",
+            "name": "Font: FreeMono",
+            "settings":
+            {
+                "font_size": 11.5,
+                "font_face": "FreeMono"
+            }
+        },
+        {
+            "description": "Ubuntu Mono, fontsize 11.5",
+            "name": "Font: Ubuntu Mono",
+            "settings":
+            {
+                "font_size": 11.5,
+                "font_face": "Ubuntu Mono"
+            }
+        },
+        {
+            "description": "Menlo, fontsize 10",
+            "name": "Font: Menlo",
+            "settings":
+            {
+                "font_size": 10,
+                "font_face": "Menlo"
+            }
+        },
+        {
+            "description": "Verdana, fontize 11",
+            "name": "Font: Verdana",
+            "settings":
+            {
+                "font_size": 11,
+                "font_face": "Verdana"
+            }
+        },
+        {
+            "description": "Anonymous Pro, fontsize 11.5",
+            "name": "Font: Anonymous Pro",
+            "settings":
+            {
+                "font_size": 11.5,
+                "font_face": "Anonymous Pro",
+                "line_padding_bottom": 1,
+                "line_padding_top": 1
+            }
+        },
+
+        // Rulers and stuff
+
+        {
+            "description": "Ruler 89",
+            "name": "Ruler: 89",
+            "settings":
+            {
+                "rulers":
+                [
+                    89
+                ]
+            }
+        },
+        {
+            "description": "Ruler 120",
+            "name": "Ruler: 120",
+            "settings":
+            {
+                "rulers":
+                [
+                    120
+                ]
+            }
+        },
+        {
+            "description": "Ruler 79",
+            "name": "Ruler: 79",
+            "settings":
+            {
+                "rulers":
+                [
+                    79
+                ]
+            }
+        },
+        {
+            "description": "Ruler None",
+            "name": "Ruler: None",
+            "settings":
+            {
+                "rulers":
+                []
+            }
+        },
+        {
+            "description": "Wrap width 89",
+            "name": "Wrap width: 89",
+            "settings":
+            {
+                "wrap_width": 89
+            }
+        },
+        {
+            "description": "Wrap width 120",
+            "name": "Wrap width: 120",
+            "settings":
+            {
+                "wrap_width": 120
+            }
+        },
+        {
+            "description": "Wrap width 79",
+            "name": "Wrap width: 79",
+            "settings":
+            {
+                "wrap_width": 79
+            }
+        },
+        {
+            "description": "Wrap width 0",
+            "name": "Wrap width: 0",
+            "settings":
+            {
+                "wrap_width": 0
+            }
+        },
+
+        // Atomic saving
+
+        {
+            "description": "Turn atomic save on",
+            "name": "Atomic save on",
+            "settings":
+            {
+                "atomic_save": true
+            }
+        },
+        {
+            "description": "Turn atomic save off",
+            "name": "Atomic save off",
+            "settings":
+            {
+                "atomic_save": false
+            }
+        }
+    ]
+}
