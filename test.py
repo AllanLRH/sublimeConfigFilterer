@@ -9,5 +9,9 @@ from lib.parsers_and_filters import *
 
 def test__load_setingsfile():
     for file in glob("files_for_testing/*.sublime*"):
-        cfg = load_setingsfile(file)  # noqa
+        try:
+            cfg = load_setingsfile(file)  # noqa
+        except Exception as err:
+            print("Failed loading {}".format(file))
+            raise err
     return True
