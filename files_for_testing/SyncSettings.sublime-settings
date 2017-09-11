@@ -1,5 +1,5 @@
 {
-	"access_token": "64b3abd0970b1bd50d55dea26e821191eb126bda",
+	"access_token": "foobar123",
 	"auto_upgrade": false,
 	"excluded_files":
 	[
@@ -19,7 +19,7 @@
 		"Package Control.user-ca-bundle",
 		"Thumbs.db"
 	],
-	"gist_id": "deff993b793fb9e890a668179cc50aec",
+	"gist_id": "foobar123",
 	"included_files":
 	[
 	]

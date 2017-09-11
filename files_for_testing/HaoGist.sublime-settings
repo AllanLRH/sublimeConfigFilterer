@@ -1,6 +1,6 @@
 {
     // Gist token
-    "token": "3d7f7bbd3adf21d4175b29fa48fdd9037f06ab73",
+    "token": "foobar123",
 
     // Browser Path, you should set a valid browser path, otherwise, it will have problem
     // Some policy prevents setting chrome as default browser, so this setting is here
